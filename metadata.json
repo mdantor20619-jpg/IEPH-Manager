@@ -1,0 +1,9 @@
+{
+  "name": "Imran's English Private Home",
+  "description": "A comprehensive student and batch management system for private tutors, featuring attendance tracking, fee management, and AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
